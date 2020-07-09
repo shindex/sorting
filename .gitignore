@@ -1,0 +1,11 @@
+latex
+data
+.DS_Store
+
+# 実行ファイル
+bubble
+bucket
+heap
+insert
+quick
+shaker
